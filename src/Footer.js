@@ -155,7 +155,7 @@ function Footer() {
                     As a business we don't give stock tips, and have not authorized
                     anyone to trade on behalf of others. If you find anyone claiming
                     to be part of Zerodha and offering such services, please create
-                    a ticket here.
+                    tickets here.
                 </p>
 
                 <p>
