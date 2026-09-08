@@ -87,7 +87,7 @@ function Footer() {
                     Registration no.: INZ000031633. CDSL/NSDL: Depository services
                     through Zerodha Broking Ltd. – SEBI Registration no.:
                     IN-DP-431-2019. Registered Address: Zerodha Broking Ltd.,
-                    #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School,
+                    #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public Schools,
                     J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India.
                     For any complaints pertaining to securities broking please write
                     to complaints@zerodha.com, for DP related to dp@zerodha.com.
