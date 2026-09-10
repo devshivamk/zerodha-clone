@@ -12,18 +12,45 @@ import Footer from "../../Footer";
 function ProductPage() {
   return (
     <>
-
       <Hero />
 
-      <LeftSection />
+      <LeftSection
+        imageURL="media/images/coin.png"
+        productName="Coin"
+        productDesription="Buy direct mutual funds online, commission-free, delivered directly to your Demat account. Enjoy the investment experience on your Android and iOS devices."
+        tryDemo=""
+        learnMore=""
+        GooglePlay=""
+        appStore=""
+      />
+      <RightSection />
+
+      <LeftSection
+        imageURL="media/images/varsity.png"
+        productName="Varisity mobile"
+        productDesription="An easy to grasp, collection of stock market lessons with in-depth coverage and illustrations. Content is broken down into bite-size cards to help you learn on the go."
+        tryDemo=""
+        learnMore=""
+        GooglePlay=""
+        appStore=""
+      />
+      <RightSection />
+
+      <LeftSection
+        imageURL="media/images/kite.png"
+        productName="Kite"
+        productDesription="Our ultra-fast flagship trading platform with streaming market data, advanced charts, an elegant UI, and more. Enjoy the Kite experience seamlessly on your Android and iOS devices."
+        tryDemo=""
+        learnMore=""
+        GooglePlay=""
+        appStore=""
+      />
 
       <RightSection />
 
       <Universe />
 
       <OpenAccounts />
-
-
     </>
   );
 }
