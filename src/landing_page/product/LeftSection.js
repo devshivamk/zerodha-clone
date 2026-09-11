@@ -19,8 +19,8 @@ function LeftSection({
         <h1>{productName}</h1>
         <p>{productDesription}</p>
         <div className="">
-            <a href={tryDemo}>Trydemo</a>
-            <a href={learnMore} style={{marginLeft:"50px"}}>learn more</a>
+            <a href={tryDemo} style={{marginLeft:"50px",textDecoration: "none"}}>Trydemo</a>
+            <a href={learnMore} style={{marginLeft:"50px",textDecoration: "none"}}>learn more</a>
         </div>
 
         <div className="mt-3">
