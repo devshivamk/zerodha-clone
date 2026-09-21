@@ -53,8 +53,10 @@ function ProductPage() {
         GooglePlay=""
         appStore=""
       />
-      
-      
+   {/* <P className= " text-center mt-5 mb">
+        Want to know more about our technology stack? Check out the Zerodha.tech blog.
+      </P> 
+       */}
       
       <Universe />
 

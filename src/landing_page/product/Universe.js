@@ -20,12 +20,16 @@ function Universe() {
           </p>
         </div>
 
+
         {/* Zerodha Fund House */}
         <div className="col-4 p-3 mt-5">
           <img
             src="media/images/zerodhafundhouse.png"
             alt="Zerodha Fund House"
-            style={{ maxWidth: "200px" }}
+            style={{
+              height: "50px",
+              width: "auto"
+            }}
           />
 
           <p className="text-small text-muted mt-3">
@@ -35,12 +39,16 @@ function Universe() {
           </p>
         </div>
 
+
         {/* Sensibull */}
         <div className="col-4 p-3 mt-5">
           <img
-            src="media/images/sensibullLogo.png"
+            src="media/images/sensibullLogo.svg"
             alt="Sensibull"
-            style={{ maxWidth: "200px" }}
+            style={{
+              height: "35px",
+              width: "auto"
+            }}
           />
 
           <p className="text-small text-muted mt-3">
@@ -50,12 +58,16 @@ function Universe() {
           </p>
         </div>
 
-        {/* Tijori */}
-        <div className="col-4 p-3 mt-5">
+
+        {/* GoldenPi */}
+        <div className="col-4 p-2 mt-5">
           <img
-            src="media/images/tijori.png"
-            alt="Tijori"
-            style={{ maxWidth: "200px" }}
+            src="media/images/goldenpiLogo.png"
+            alt="GoldenPi"
+            style={{
+              height: "45px",
+              width: "auto"
+            }}
           />
 
           <p className="text-small text-muted mt-3">
@@ -65,12 +77,16 @@ function Universe() {
           </p>
         </div>
 
+
         {/* Streak */}
         <div className="col-4 p-3 mt-5">
           <img
             src="media/images/streakLogo.png"
             alt="Streak"
-            style={{ maxWidth: "200px" }}
+            style={{
+              height: "55px",
+              width: "auto"
+            }}
           />
 
           <p className="text-small text-muted mt-3">
@@ -80,12 +96,16 @@ function Universe() {
           </p>
         </div>
 
+
         {/* Smallcase */}
         <div className="col-4 p-3 mt-5">
           <img
             src="media/images/smallcaseLogo.png"
             alt="Smallcase"
-            style={{ maxWidth: "200px" }}
+            style={{
+              height: "50px",
+              width: "auto"
+            }}
           />
 
           <p className="text-small text-muted mt-3">
@@ -96,11 +116,15 @@ function Universe() {
         </div>
 
 
+        {/* Ditto */}
         <div className="col-4 p-3 mt-5">
           <img
             src="media/images/dittoLogo.png"
             alt="Ditto"
-            style={{ maxWidth: "200px" }}
+            style={{
+              height: "55px",
+              width: "auto"
+            }}
           />
 
           <p className="text-small text-muted mt-3">
