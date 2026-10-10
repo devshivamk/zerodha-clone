@@ -9,7 +9,7 @@ function Brokerage() {
             <h3 className="fs-5">Brokerage calculator</h3>
           </a>
           <ul>
-            Call & Trade and RMS auto-squareoff:Additional charges of ₹50 + GST
+            Call and Trade and RMS auto-squareoff:Additional charges of ₹50 + GST
             per order. 
             Digital contract notes will be sent via e-mail. 
             Physical
