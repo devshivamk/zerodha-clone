@@ -8,7 +8,7 @@ function Brokerage() {
           <a href="" style={{ textDecoration: "none" }}>
             <h3 className="fs-5">Brokerage calculator</h3>
           </a>
-          <ul className="text-left" style={{textAlign:"text-left"}}>
+          <ul className="text-muted" style={{textAlign:"left", lineHeight:"2.5", fontSize:"15px"}}>
             <li>Call and Trade and RMS auto-squareoff:Additional charges of ₹50 + GST
             per order. </li>
             <li>Digital contract notes will be sent via e-mail. 
