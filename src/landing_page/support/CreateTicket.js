@@ -153,9 +153,7 @@ function CreateTicket() {
           
       </div>
       
-      </div>
-      
-      
+      </div> 
       </div>
   )
 }
